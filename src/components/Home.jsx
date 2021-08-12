@@ -11,7 +11,7 @@ export default function Home() {
             <br></br>
             <h1>Welcome to the Dark Side</h1>
             <br></br>
-            <img src={blairwitch} className="blairwitch"/>
+            <img src={blairwitch} className="blairwitch" alt="blair witch pic" />
         </div>
     )
 

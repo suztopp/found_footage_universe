@@ -38,17 +38,17 @@ render() {
               <MDBNavLink to="#!">Links</MDBNavLink>
             </MDBNavItem>
             <MDBNavItem>
-              {/* <MDBDropdown>
+              <MDBDropdown>
                 <MDBDropdownToggle nav caret>
-                  <span className="mr-2">Dropdown</span>
+                  <span className="mr-2">Genres</span>
                 </MDBDropdownToggle>
                 <MDBDropdownMenu>
-                  <MDBDropdownItem href="#!">Action</MDBDropdownItem>
-                  <MDBDropdownItem href="#!">Another Action</MDBDropdownItem>
-                  <MDBDropdownItem href="#!">Something else here</MDBDropdownItem>
-                  <MDBDropdownItem href="#!">Something else here</MDBDropdownItem>
+                  <MDBDropdownItem href="#!">ALIENS</MDBDropdownItem>
+                  <MDBDropdownItem href="#!">GHOSTS</MDBDropdownItem>
+                  <MDBDropdownItem href="#!">HUMANS</MDBDropdownItem>
+                  <MDBDropdownItem href="#!">WEIRD STUFF</MDBDropdownItem>
                 </MDBDropdownMenu>
-              </MDBDropdown> */}
+              </MDBDropdown>
             </MDBNavItem>
           </MDBNavbarNav>
           <MDBNavbarNav right>
